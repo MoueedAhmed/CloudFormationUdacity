@@ -1,6 +1,6 @@
 [
     {
-      "ParameterKey": "Environment",
+      "ParameterKey": "EnvironmentName",
       "ParameterValue": "Udacity-Project"
     },
     {
